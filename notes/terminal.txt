@@ -1,0 +1,9 @@
+ctrl + p : cambiar de archivp
+rutas absolutas: Son rutas desde la raiz.
+rutas relativas: Rutas que empieza desde donde estas en la terminal.
+comandos:
+cd: desplazarse a la direccion
+    cd . : te desplaza a la carpeta siguiente
+    cd .. : cambias a una carpeta antes
+    cd ..\.. : cambias a dos carpetas antes
+python: ejecutar el archivo
